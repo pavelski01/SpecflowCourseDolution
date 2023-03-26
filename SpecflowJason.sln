@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCore.Specs", "GameCore.Specs\GameCore.Specs.csproj", "{8E202EF9-D3EE-4764-AACE-3F04F738B90E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCore", "GameCore\GameCore.csproj", "{3D06657F-F7DE-4833-8B90-0DE54C9AE239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E202EF9-D3EE-4764-AACE-3F04F738B90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E202EF9-D3EE-4764-AACE-3F04F738B90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E202EF9-D3EE-4764-AACE-3F04F738B90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E202EF9-D3EE-4764-AACE-3F04F738B90E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D06657F-F7DE-4833-8B90-0DE54C9AE239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D06657F-F7DE-4833-8B90-0DE54C9AE239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D06657F-F7DE-4833-8B90-0DE54C9AE239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D06657F-F7DE-4833-8B90-0DE54C9AE239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8526834D-B1D6-4BD6-A211-972C7BA6EC58}
+	EndGlobalSection
+EndGlobal
